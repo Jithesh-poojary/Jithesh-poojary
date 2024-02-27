@@ -1,4 +1,4 @@
-(https://cdn.pixabay.com/photo/2018/05/08/08/44/artificial-intelligence-3382507_1280.jpg
+
 <h1 align="center">Hi 👋, I'm Jithesh Poojary</h1>
 <h3 align="center">A passionate Dot net developer from India</h3>
 
