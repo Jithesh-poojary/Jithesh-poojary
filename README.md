@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jithesh-poojary&label=Profile%20views&color=0e75b6&style=flat" alt="jithesh-poojary" /> </p>
 
-- 🔭 I’m currently working in [ORKES](https://github.com/conductor-sdk/conductor-csharp)
+- 🔭 I’m currently working as an Associate Software Engineer at Tricon Infotech Pvt. Ltd Bangalore
 
 - 🌱 I’m currently learning **ASP. NET framework**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **jitheshpoojary04@gmail.com**
 
-- ⚡ Fun fact **I love playing cricket**
+- ⚡ Hobby **I love playing cricket**
 
 
 
